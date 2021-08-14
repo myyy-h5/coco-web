@@ -71,7 +71,7 @@ export default {
     const pageState = reactive({
       projectName: '',
       gitName: '',
-      host: ' https://coco-h5.github.io/'
+      host: ' https://myyy-h5.github.io/'
     });
 
     const rulesRef = reactive({
